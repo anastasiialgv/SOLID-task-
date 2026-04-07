@@ -1,2 +1,2 @@
-# SOLID-task-
+# SOLID-task
 #4 Homework APBD
